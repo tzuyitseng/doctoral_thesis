@@ -17,6 +17,6 @@ This thesis includes:
 
 2. <b>A review article</b> <br>
    Accepted in <em>Neurobiology of Language</em>. <br>
-   Preprint availble: https://shs.hal.science/halshs-04836272 <br> 
+   Preprint: https://shs.hal.science/halshs-04836272 <br> 
 
 
