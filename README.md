@@ -4,7 +4,7 @@
 Université Lumière Lyon 2, Lyon, France. <br>
 https://hal.science/tel-04988192 <br>
 - Thesis supervisors: Véronique Boulenger (CNRS), Claudio Brozzoli (Inserm), and Alice C. Roy (CNRS) <br>
-- This doctoral thesis is part of an <a href="https://anr.fr/Project-ANR-19-CE28-0015">ANR AnchorFL project</a><br>
+- This doctoral thesis is part of an <a href="https://anr.fr/Project-ANR-19-CE28-0015">ANR AnchorFL</a> project <br>
 
 This thesis includes:
 
