@@ -16,7 +16,9 @@ This thesis includes:
    - <a href="https://github.com/tzuyitseng/doctoral_thesis/blob/main/LingLunch2025_TzuyiTseng.pdf">Slides</a> for an invited talk at LingLunch, Université Paris Cité, Paris, France. <br>
 
 2. <b>A review article on embodied multisensory training paradigms for learning foreign speech sounds</b> <br>
-   Tzuyi Tseng, Jennifer Krzonowski, Alice C. Roy, Claudio Brozzoli, Véronique Boulenger. (2025). Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning. Advance published in <em>Neurobiology of Language</em>. 1-62. <a href="https://doi.org/10.1162/NOL.a.215">(link)</a> <br>
-   Preprint on <a href="https://osf.io/preprints/psyarxiv/fqwe8">PsyArXiv</a> and <a href="https://shs.hal.science/halshs-04836272">HAL</a> <br> 
+   Tzuyi Tseng, Jennifer Krzonowski, Alice C. Roy, Claudio Brozzoli, Véronique Boulenger. (2025). <br>
+   Embodied speech: sensorimotor contributions to native and non-native phoneme processing and learning. <br>
+   Advance published in <em>Neurobiology of Language</em>. 1-62. <a href="https://doi.org/10.1162/NOL.a.215">(link)</a> <br>
+   - Preprint on <a href="https://osf.io/preprints/psyarxiv/fqwe8">PsyArXiv</a> and <a href="https://shs.hal.science/halshs-04836272">HAL</a> <br> 
 
 
