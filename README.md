@@ -12,7 +12,7 @@ This thesis includes:
    Tzuyi Tseng, Simon Thibault, Jennifer Krzonowski, Mélanie Canault, Alice C. Roy, Claudio Brozzoli, Véronique Boulenger. (In preparation). Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception. <br>
 
    - See the preliminary version in the <a href="https://hal.science/tel-04988192">thesis</a> (p. 69) <br>
-   - Conference and poster presentation:
+   - Conference and poster presentations:
       - Tseng, T., Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. 2024. Decoding degraded speech in the motor cortex. *Embodied and Situated Language Processing (ESLP 2024)*, Berlin, Germany.
       - Tseng, T., Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. 2024. Beyond speech production: sensorimotor contribution to native and non-native phoneme perception. *13th International Seminar on Speech Production (ISSP 2024)*, Autrans, France.
       - Tseng, T., Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. 2023. Cortical representations for native and non-native phoneme perception. *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
@@ -27,7 +27,7 @@ This thesis includes:
    Advance published in <em>Neurobiology of Language</em>. 1-62. <a href="https://doi.org/10.1162/NOL.a.215">(link)</a> <br>
    - Preprint on <a href="https://osf.io/preprints/psyarxiv/fqwe8">PsyArXiv</a> and <a href="https://shs.hal.science/halshs-04836272">HAL</a> <br>
 
-Other related scientific activity based on my doctoral thesis:
+Other related scientific activities based on my doctoral thesis:
 
    - Tseng, T. 2025. Sensorimotor representation of native and non-native phoneme perception and its application for foreign language learning. Open talk at Graduate Institute of Linguistics, National Taiwan University, Taipei, Taiwan. 20 Feb 2025. <br>
    - Tseng, T. 2022. Motor representation and speech processing in foreign language learning. Laboratory presentation at ImpAct Journal Club, CRNL, Bron, France. <br>
