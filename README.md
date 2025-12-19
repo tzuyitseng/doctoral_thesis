@@ -1,6 +1,6 @@
 <b>Doctoral Thesis</b>: <br>
 - Tzuyi Tseng. 2025. <br>
-<em>Sensorimotor representations for native and non-native phoneme perception</em>. <br>
+<b>Sensorimotor representations for native and non-native phoneme perception</b>. <br>
 Université Lumière Lyon 2, Lyon, France. <br>
 https://hal.science/tel-04988192 <br>
 - Thesis supervisors: Véronique Boulenger (CNRS), Claudio Brozzoli (Inserm), and Alice C. Roy (CNRS) <br>
