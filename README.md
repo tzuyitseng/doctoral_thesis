@@ -16,7 +16,7 @@ This thesis includes:
       - Tseng, T., Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. 2024. Decoding degraded speech in the motor cortex. *Embodied and Situated Language Processing (ESLP 2024)*, Berlin, Germany.
       - Tseng, T., Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. 2024. Beyond speech production: sensorimotor contribution to native and non-native phoneme perception. *13th International Seminar on Speech Production (ISSP 2024)*, Autrans, France.
       - Tseng, T., Krzonowski, J., Roy, A. C., Brozzoli, C., & Boulenger, V. 2023. Cortical representations for native and non-native phoneme perception. *5th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023)*, Marseille, France.
-   - <a href="https://pod.inserm.fr/video/2239-neuroimaging-club-tzuyi-tseng-202502/">Video</a> and <a href="https://github.com/tzuyitseng/doctoral_thesis/blob/main/LingLunch2025_TzuyiTseng.pdf">Slides</a> for invited talks: <br>
+   - <a href="https://pod.inserm.fr/video/2239-neuroimaging-club-tzuyi-tseng-202502/">Video</a> and <a href="https://github.com/tzuyitseng/doctoral_thesis/blob/main/LingLunch2025_TzuyiTseng.pdf">slides</a> for invited talks: <br>
       - Sensorimotor coding for native and non-native phoneme perception: An fMRI study. LingLunch, Université Paris Cité, Paris, France. 25 Sep 2025. <br>
       - How does the human brain process native and non-native speech sounds? Graduate Institute of Linguistics, National Chengchi University, Taipei, Taiwan. 19 Feb 2025. <br>
       - Sensorimotor representations of phoneme perception: an fMRI study with multivariate analyses. NeuroImaging Club, Centre de Recherche en Neurosciences de Lyon (CRNL), Bron, France. 14 Feb 2025. <br>
