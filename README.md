@@ -12,8 +12,12 @@ This thesis includes:
    Tzuyi Tseng, Simon Thibault, Jennifer Krzonowski, Mélanie Canault, Alice C. Roy, Claudio Brozzoli, Véronique Boulenger. (In preparation). Decoding articulatory phonetic features: somatotopic and sensorimotor representations in native and non-native phoneme perception. <br>
 
    - See the preliminary version in the <a href="https://hal.science/tel-04988192">thesis</a> (p. 69) <br>
-   - Invited talk (<a href="https://pod.inserm.fr/video/2239-neuroimaging-club-tzuyi-tseng-202502/">video</a>) at NeuroImaging Club, Centre de Recherche en Neurosciences de Lyon, Bron, France. <br>
-   - <a href="https://github.com/tzuyitseng/doctoral_thesis/blob/main/LingLunch2025_TzuyiTseng.pdf">Slides</a> for an invited talk at LingLunch, Université Paris Cité, Paris, France. <br>
+   - <a href="https://pod.inserm.fr/video/2239-neuroimaging-club-tzuyi-tseng-202502/">Video</a> and <a href="https://github.com/tzuyitseng/doctoral_thesis/blob/main/LingLunch2025_TzuyiTseng.pdf">Slides</a> for invited talks with related topics: <br>
+      - Sensorimotor coding for native and non-native phoneme perception: An fMRI study. LingLunch, Université Paris Cité, Paris, France. 25 Sep 2025. <br>
+      - How does the human brain process native and non-native speech sounds? Graduate Institute of Linguistics, National Chengchi University, Taipei, Taiwan. 19 Feb 2025. <br>
+      - Sensorimotor representations of phoneme perception: an fMRI study with multivariate analyses. NeuroImaging Club, Centre de Recherche en Neurosciences de Lyon (CRNL), Bron, France. 14 Feb 2025. <br>
+   - Other related scientific activity: <br>
+      - Sensorimotor representation of native and non-native phoneme perception and its application for foreign language learning. Graduate Institute of Linguistics, National Taiwan University, Taipei, Taiwan. 20 Feb 2025. <br>
 
 2. <b>A review article on embodied multisensory training paradigms for learning foreign speech sounds</b> <br>
    Tzuyi Tseng, Jennifer Krzonowski, Alice C. Roy, Claudio Brozzoli, Véronique Boulenger. (2025). <br>
